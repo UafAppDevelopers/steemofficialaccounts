@@ -1,122 +1,146 @@
-{
-  "steemit": {
+[
+  {
+    "account":"steemit",
     "name": "Steemit",
     "website": "https://steemit.com/",
     "desc": "Social blogging platform"
   },
-  "teelkee": {
+  {
+    "account":"teelkee",
     "name": "Teelkee",
     "website": "https://play.google.com/store/apps/details?id=com.teelkee.app",
     "desc": "The designed way to use Steem (Android App)"
   },
-  "steemmonsters": {
+  {
+    "account":"steemmonsters",
     "name": "Splinterlands",
     "website": "https://steemmonsters.com/",
     "desc": "Blockchain-based collectible card game"
   },
-  "drugwars": {
+  {
+    "account":"drugwars",
     "name": "Drugwars",
     "website": "https://drugwarsio/",
     "desc": "Get Paid to Rule your World!"
   },
-  "dtube": {
+  {
+    "account":"dtube",
     "name": "Dtube",
     "website": "https://d.tube",
     "desc": "Truly Decentralized video platform"
   },
-  "steemhunt": {
+  {
+    "account":"steemhunt",
     "name": "SteemHunt",
     "website": "https://steemhunt.com/",
     "desc": "Community for product enthusiasts to discover new products"
   },
-  "appics": {
+  {
+    "account":"appics",
     "name": "Appics",
     "website": "https://www.appics.com/",
     "desc": "Passion rewarded"
   },
-  "nextcolony": {
+  {
+    "account":"nextcolony",
     "name": "Next Colony",
     "website": "https://nextcolony.io/",
     "desc": "Space Browser Game"
   },
-  "actifit": {
+  {
+    "account":"actifit",
     "name": "Actifit",
     "website": "https://actifit.io/",
     "desc": "Rewarding Activity with Crypto"
   },
-  "holybread": {
+  {
+    "account":"holybread",
     "name": "Holy Bread",
     "website": "https://holybread.io/",
     "desc": "RPG BrowserGame"
   },
-  "dlike": {
+  {
+    "account":"dlike",
     "name": "DLike",
     "website": "https://dlike.io/",
     "desc": "Social Sharing Platform"
   },
-  "peakmonsters": {
+  {
+    "account":"peakmonsters",
     "name": "PeakMonster",
     "website": "https://peakmonsters.com/",
     "desc": "Trading Market for Splinterlands"
   },
-  "steemcoinpan": {
+  {
+    "account":"steemcoinpan",
     "name": "SteemCoinPan",
     "website": "https://www.steemcoinpan.com/",
     "desc": "Cryptocurrency Forum"
   },
-  "wherein": {
+  {
+    "account":"wherein",
     "name": "Wherein",
     "website": "http://www.wherein.io/",
     "desc": "Lifestyle platform"
   },
-  "kryptogamers": {
+  {
+    "account":"kryptogamers",
     "name": "Krypto Gamers",
     "website": "https://kryptogamers.com/",
     "desc": "Provably Fair Gaming Platform"
   },
-  "epicdice": {
+  {
+    "account":"epicdice",
     "name": "Epic Dice",
     "website": "https://epicdice.io/",
     "desc": "Decentralised Casino Game"
   },
-  "steemworld": {
+  {
+    "account":"steemworld",
     "name": "SteemWorld",
     "website": "https://steemworld.org/",
     "desc": "Steem Blockchain Tools"
   },
-  "steemscan": {
+  {
+    "account":"steemscan",
     "name": "SteemScan",
     "website": "https://steemscan.com/",
     "desc": "Steem Blockchain Explorer"
   },
-  "fundition": {
+  {
+    "account":"fundition",
     "name": "Fundition",
     "website": "https://fundition.io",
     "desc": "Decentralized crowdfunding & collaboration platform"
   },
-  "travelfeed": {
+  {
+    "account":"travelfeed",
     "name": "TravelFeed",
     "website": "https://travelfeed.io/",
     "desc": "Community for Independent Travellers"
   },
-  "tasteem": {
+  {
+    "account":"tasteem",
     "name": "Tasteem",
     "website": "https://tasteem.io/",
     "desc": "Write your own restaurant guide for special rewards."
   },
-  "steemauto": {
+  {
+    "account":"steemauto",
     "name": "Steem Auto",
     "website": "https://steemauto.com/",
     "desc": "Free and unlimited tools for Steem"
   },
-  "hashkings": {
+  {
+    "account":"hashkings",
     "name": "HashKings",
     "website": "https://steem.hashkings.app/",
     "desc": "Farming Simulator"
   },
-  "dlease": {
+  {
+    "account":"dlease",
     "name": "Dlease",
     "website": "https://dlease.io/",
     "desc": "Investment platform"
   }
-}
+]
