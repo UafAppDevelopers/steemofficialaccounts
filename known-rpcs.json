@@ -9,15 +9,11 @@
   },
   {
     "url": "steem.61bts.com",
-    "name": ""
+    "name": "ety001"
   },
   {
     "url": "s2.61bts.com",
-    "name": ""
-  },
-  {
-    "url": "api.steem.bts.tw",
-    "name": ""
+    "name": "ety001"
   },
   {
     "url": "steemd.minnowsupportproject.org",
@@ -26,5 +22,9 @@
   {
     "url": "steemd.privex.io",
     "name": "privex"
+  },
+  {
+    "url": "api.steem.bts.tw",
+    "name": "unknown"
   }
 ]
