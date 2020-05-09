@@ -1,1 +1,122 @@
-
+{
+  "steemit": {
+    "name": "Steemit",
+    "website": "https://steemit.com/",
+    "desc": "Social blogging platform"
+  },
+  "teelkee": {
+    "name": "Teelkee",
+    "website": "https://play.google.com/store/apps/details?id=com.teelkee.app",
+    "desc": "The designed way to use Steem (Android App)"
+  },
+  "steemmonsters": {
+    "name": "Splinterlands",
+    "website": "https://steemmonsters.com/",
+    "desc": "Blockchain-based collectible card game"
+  },
+  "drugwars": {
+    "name": "Drugwars",
+    "website": "https://drugwarsio/",
+    "desc": "Get Paid to Rule your World!"
+  },
+  "dtube": {
+    "name": "Dtube",
+    "website": "https://d.tube",
+    "desc": "Truly Decentralized video platform"
+  },
+  "steemhunt": {
+    "name": "SteemHunt",
+    "website": "https://steemhunt.com/",
+    "desc": "Community for product enthusiasts to discover new products"
+  },
+  "appics": {
+    "name": "Appics",
+    "website": "https://www.appics.com/",
+    "desc": "Passion rewarded"
+  },
+  "nextcolony": {
+    "name": "Next Colony",
+    "website": "https://nextcolony.io/",
+    "desc": "Space Browser Game"
+  },
+  "actifit": {
+    "name": "Actifit",
+    "website": "https://actifit.io/",
+    "desc": "Rewarding Activity with Crypto"
+  },
+  "holybread": {
+    "name": "Holy Bread",
+    "website": "https://holybread.io/",
+    "desc": "RPG BrowserGame"
+  },
+  "dlike": {
+    "name": "DLike",
+    "website": "https://dlike.io/",
+    "desc": "Social Sharing Platform"
+  },
+  "peakmonsters": {
+    "name": "PeakMonster",
+    "website": "https://peakmonsters.com/",
+    "desc": "Trading Market for Splinterlands"
+  },
+  "steemcoinpan": {
+    "name": "SteemCoinPan",
+    "website": "https://www.steemcoinpan.com/",
+    "desc": "Cryptocurrency Forum"
+  },
+  "wherein": {
+    "name": "Wherein",
+    "website": "http://www.wherein.io/",
+    "desc": "Lifestyle platform"
+  },
+  "kryptogamers": {
+    "name": "Krypto Gamers",
+    "website": "https://kryptogamers.com/",
+    "desc": "Provably Fair Gaming Platform"
+  },
+  "epicdice": {
+    "name": "Epic Dice",
+    "website": "https://epicdice.io/",
+    "desc": "Decentralised Casino Game"
+  },
+  "steemworld": {
+    "name": "SteemWorld",
+    "website": "https://steemworld.org/",
+    "desc": "Steem Blockchain Tools"
+  },
+  "steemscan": {
+    "name": "SteemScan",
+    "website": "https://steemscan.com/",
+    "desc": "Steem Blockchain Explorer"
+  },
+  "fundition": {
+    "name": "Fundition",
+    "website": "https://fundition.io",
+    "desc": "Decentralized crowdfunding & collaboration platform"
+  },
+  "travelfeed": {
+    "name": "TravelFeed",
+    "website": "https://travelfeed.io/",
+    "desc": "Community for Independent Travellers"
+  },
+  "tasteem": {
+    "name": "Tasteem",
+    "website": "https://tasteem.io/",
+    "desc": "Write your own restaurant guide for special rewards."
+  },
+  "steemauto": {
+    "name": "Steem Auto",
+    "website": "https://steemauto.com/",
+    "desc": "Free and unlimited tools for Steem"
+  },
+  "hashkings": {
+    "name": "HashKings",
+    "website": "https://steem.hashkings.app/",
+    "desc": "Farming Simulator"
+  },
+  "dlease": {
+    "name": "Dlease",
+    "website": "https://dlease.io/",
+    "desc": "Investment platform"
+  }
+}
