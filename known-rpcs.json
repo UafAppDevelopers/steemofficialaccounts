@@ -1,9 +1,30 @@
-{
-    "api.steemit.com": "steemit",
-    "api.justyy.com": "@justyy",
-    "steem.61bts.com": "@ety001",
-    "s2.61bts.com": "",
-    "api.steem.bts.tw": "",
-    "steemd.minnowsupportproject.org": "MSP (@aggroed)",
-    "steemd.privex.io": "privex"
-}
+[
+  {
+    "url": "api.steemit.com",
+    "name": "steemit"
+  },
+  {
+    "url": "api.justyy.com",
+    "name": "justyy"
+  },
+  {
+    "url": "steem.61bts.com",
+    "name": ""
+  },
+  {
+    "url": "s2.61bts.com",
+    "name": ""
+  },
+  {
+    "url": "api.steem.bts.tw",
+    "name": ""
+  },
+  {
+    "url": "steemd.minnowsupportproject.org",
+    "name": "aggroed"
+  },
+  {
+    "url": "steemd.privex.io",
+    "name": "privex"
+  }
+]
