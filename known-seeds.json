@@ -1,55 +1,93 @@
 [
   {
     "url": "sn1.steemit.com:2001",
-    "name": "steemit"
+    "name": "steemit",
+    "location": "Unknown"
   },
   {
     "url": "sn2.steemit.com:2001",
-    "name": "steemit"
+    "name": "steemit",
+    "location": "Unknown"
   },
   {
     "url": "sn3.steemit.com:2001",
-    "name": "steemit"
+    "name": "steemit",
+    "location": "Unknown"
   },
   {
     "url": "sn4.steemit.com:2001",
-    "name": "steemit"
+    "name": "steemit",
+    "location": "Unknown"
   },
   {
     "url": "sn5.steemit.com:2001",
-    "name": "steemit"
+    "name": "steemit",
+    "location": "Unknown"
   },
   {
     "url": "sn6.steemit.com:2001",
-    "name": "steemit"
+    "name": "steemit",
+    "location": "Unknown"
   },
 
   {
     "url": "seed.justyy.com:2001",
-    "name": "justyy"
+    "name": "justyy",
+    "location": "Unknown"
   },
   {
     "url": "steem-seed.urbanpedia.com:2001",
-    "name": "fuli"
+    "name": "fuli",
+    "location": "Unknown"
   },
   {
     "url": "steem-seed.61bts.com:2001",
-    "name": "ety001"
+    "name": "ety001",
+    "location": "Unknown"
   },
   {
     "url": "seed-1.blockbrothers.io:2001",
-    "name": "blockbrother"
+    "name": "blockbrother",
+    "location": "Unknown"
   },
   {
     "url": "5.189.136.20:2001",
-    "name": "maiyude"
+    "name": "maiyude",
+    "location": "Unknown"
   },
   {
     "url": "steemseed-fin.privex.io:2001",
-    "name": "privex"
+    "name": "privex",
+    "location": "Unknown"
   },
   {
     "url": "steemseed-se.privex.io:2001",
-    "name": "privex"
+    "name": "privex",
+    "location": "Unknown"
+  },
+  {
+    "url": "seed.steemzzang.com:2001",
+    "name": "zzan.witnesses",
+    "location": "NYC"
+  },
+  {
+    "url": "seed.steemhunt.com:2001",
+    "name": "steemhunt",
+    "location": "South Korea"
+  },
+  {
+    "url": "seednode.dlike.io:2001",
+    "name": "dlike",
+    "location": "Germany"
+  },
+  {
+    "url": "seed.steemer.app:2001",
+    "name": "bukio",
+    "location": "Unknown"
+  },
+  {
+    "url": "34.82.65.87:2001",
+    "name": "dev.supporters",
+    "location": "Unknown"
   }
 ]
