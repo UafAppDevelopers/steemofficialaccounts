@@ -3,150 +3,208 @@
     "account":"steemitblog",
     "name": "Steemit",
     "website": "https://steemit.com/",
-    "desc": "Social blogging platform"
+    "desc": "Social blogging platform",
+    "category":"Social",
+    "type":"Interface"
   },
   {
     "account":"teelkee",
     "name": "Teelkee",
     "website": "https://play.google.com/store/apps/details?id=com.teelkee.app",
-    "desc": "The designed way to use Steem (Android App)"
+    "desc": "The designed way to use Steem (Android App)",
+    "category":"Social",
+    "type":"Mobile App"
   },
   {
     "account":"steemmonsters",
     "name": "Splinterlands",
     "website": "https://steemmonsters.com/",
-    "desc": "Blockchain-based collectible card game"
+    "desc": "Blockchain-based collectible card game",
+    "category":"Game",
+    "type":"App"
   },
   {
     "account":"drugwars",
     "name": "Drugwars",
     "website": "https://drugwarsio/",
-    "desc": "Get Paid to Rule your World!"
+    "desc": "Get Paid to Rule your World!",
+    "category":"Game",
+    "type":"App"
   },
   {
     "account":"dtube",
     "name": "Dtube",
     "website": "https://d.tube",
-    "desc": "Truly Decentralized video platform"
+    "desc": "Truly Decentralized video platform",
+    "category":"Entertainment",
+    "type":"App"
   },
   {
     "account":"steemhunt",
     "name": "SteemHunt",
     "website": "https://steemhunt.com/",
-    "desc": "Community for product enthusiasts to discover new products"
+    "desc": "Community for product enthusiasts to discover new products",
+    "category":"Social",
+    "type":"App"
   },
   {
     "account":"appics",
     "name": "Appics",
     "website": "https://www.appics.com/",
-    "desc": "Passion rewarded"
+    "desc": "Passion rewarded",
+    "category":"Social",
+    "type":"Mobile App"
   },
   {
     "account":"nextcolony",
     "name": "Next Colony",
     "website": "https://nextcolony.io/",
-    "desc": "Space Browser Game"
+    "desc": "Space Browser Game",
+    "category":"Game",
+    "type":"App"
   },
   {
     "account":"justyy",
     "name": "Steemyy",
     "website": "https://steemyy.com/",
-    "desc": "Steem Blockchain Tools & APIs"
+    "desc": "Steem Blockchain Tools & APIs",
+    "category":"Utility",
+    "type":"App"
   },
   {
     "account":"actifit",
     "name": "Actifit",
     "website": "https://actifit.io/",
-    "desc": "Rewarding Activity with Crypto"
+    "desc": "Rewarding Activity with Crypto",
+    "category":"Health",
+    "type":"App"
   },
   {
     "account":"holybread",
     "name": "Holy Bread",
     "website": "https://holybread.io/",
-    "desc": "RPG BrowserGame"
+    "desc": "RPG BrowserGame",
+    "category":"Game",
+    "type":"App"
   },
   {
     "account":"dlike",
     "name": "DLike",
     "website": "https://dlike.io/",
-    "desc": "Social Sharing Platform"
+    "desc": "Social Sharing Platform",
+    "category":"Social",
+    "type":"Interface"
   },
   {
     "account":"peakmonsters",
     "name": "PeakMonster",
     "website": "https://peakmonsters.com/",
-    "desc": "Trading Market for Splinterlands"
+    "desc": "Trading Market for Splinterlands",
+    "category":"Utility",
+    "type":"App"
   },
   {
     "account":"steemcoinpan",
     "name": "SteemCoinPan",
     "website": "https://www.steemcoinpan.com/",
-    "desc": "Cryptocurrency Forum"
+    "desc": "Cryptocurrency Forum",
+    "category":"Social",
+    "type":"App"
   },
   {
     "account":"wherein",
     "name": "Wherein",
     "website": "http://www.wherein.io/",
-    "desc": "Lifestyle platform"
+    "desc": "Lifestyle platform",
+    "category":"Social",
+    "type":"App"
   },
   {
     "account":"kryptogamers",
     "name": "Krypto Gamers",
     "website": "https://kryptogamers.com/",
-    "desc": "Provably Fair Gaming Platform"
+    "desc": "Provably Fair Gaming Platform",
+    "category":"Gambling",
+    "type":"App"
   },
   {
     "account":"epicdice",
     "name": "Epic Dice",
     "website": "https://epicdice.io/",
-    "desc": "Decentralised Casino Game"
+    "desc": "Decentralised Casino Game",
+    "category":"Gambling",
+    "type":"App"
   },
   {
     "account":"steemchiller",
     "name": "SteemWorld",
     "website": "https://steemworld.org/",
-    "desc": "Steem Blockchain Tools"
+    "desc": "Steem Blockchain Tools",
+    "category":"Utility",
+    "type":"App"
   },
   {
     "account":"futureshock",
     "name": "SteemScan",
     "website": "https://steemscan.com/",
-    "desc": "Steem Blockchain Explorer"
+    "desc": "Steem Blockchain Explorer",
+    "category":"Utility",
+    "type":"App"
   },
   {
     "account":"fundition",
     "name": "Fundition",
     "website": "https://fundition.io",
-    "desc": "Decentralized crowdfunding & collaboration platform"
+    "desc": "Decentralized crowdfunding & collaboration platform",
+    "category":"Finance",
+    "type":"App"
   },
   {
     "account":"travelfeed",
     "name": "TravelFeed",
     "website": "https://travelfeed.io/",
-    "desc": "Community for Independent Travellers"
+    "desc": "Community for Independent Travellers",
+    "category":"Social",
+    "type":"App"
   },
   {
     "account":"tasteem",
     "name": "Tasteem",
     "website": "https://tasteem.io/",
-    "desc": "Write your own restaurant guide for special rewards."
+    "desc": "Write your own restaurant guide for special rewards.",
+    "category":"Social",
+    "type":"App"
   },
   {
     "account":"steemauto",
     "name": "Steem Auto",
     "website": "https://steemauto.com/",
-    "desc": "Free and unlimited tools for Steem"
+    "desc": "Free and unlimited tools for Steem",
+    "category":"Utility",
+    "type":"App"
   },
   {
     "account":"hashkings",
     "name": "HashKings",
     "website": "https://steem.hashkings.app/",
-    "desc": "Farming Simulator"
+    "desc": "Farming Simulator",
+    "category":"Game",
+    "type":"App"
   },
   {
     "account":"dlease",
     "name": "Dlease",
     "website": "https://dlease.io/",
-    "desc": "Investment platform"
+    "desc": "Investment platform",
+    "category":"Utility",
+    "type":"App"
+  },
+  {
+    "account":"steempeak",
+    "name": "SteemPeak",
+    "website": "https://steempeak.com/",
+    "desc": "Intuitive way to experience Steem",
+    "category":"Social",
+    "type":"Interface"
   }
 ]
