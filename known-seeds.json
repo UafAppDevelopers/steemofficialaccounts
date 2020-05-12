@@ -89,5 +89,10 @@
     "url": "seed.supporter.dev:2001",
     "name": "dev.supporters",
     "location": "Unknown"
+  },
+  {
+    "url": "seed.goodhello.net:2001",
+    "name": "helloworld.wit",
+    "location": "Unknown"
   }
 ]
