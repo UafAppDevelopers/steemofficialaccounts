@@ -94,5 +94,10 @@
     "url": "seed.goodhello.net:2001",
     "name": "helloworld.wit",
     "location": "Unknown"
+  },
+  {
+    "url": "steemdb.online:2001",
+    "name": "steem-supporter",
+    "location": "Unknown"
   }
 ]
