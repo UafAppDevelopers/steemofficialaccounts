@@ -176,9 +176,9 @@
     "type":"App"
   },
   {
-    "account":"steemauto",
+    "account":"steem-supporter",
     "name": "Steem Auto",
-    "website": "https://steemauto.com/",
+    "website": "https://auto.steemdb.online/",
     "desc": "Free and unlimited tools for Steem",
     "category":"Utility",
     "type":"App"
