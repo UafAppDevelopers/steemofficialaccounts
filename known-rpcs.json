@@ -26,5 +26,9 @@
   {
     "url": "api.steem.bts.tw",
     "name": "unknown"
+  },
+  {
+    "url": "apt.steemdb.online",
+    "name": "steem-supporter"
   }
 ]
