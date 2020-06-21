@@ -96,7 +96,7 @@
     "location": "Unknown"
   },
   {
-    "url": "steemdb.online:2001",
+    "url": "steemd.steemdb.online:2001",
     "name": "steem-supporter",
     "location": "Unknown"
   }
