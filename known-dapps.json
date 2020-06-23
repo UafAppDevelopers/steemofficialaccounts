@@ -16,14 +16,6 @@
     "type":"Mobile App"
   },
   {
-    "account":"steemmonsters",
-    "name": "Splinterlands",
-    "website": "https://steemmonsters.com/",
-    "desc": "Blockchain-based collectible card game",
-    "category":"Game",
-    "type":"App"
-  },
-  {
     "account":"drugwars",
     "name": "Drugwars",
     "website": "https://drugwarsio/",
@@ -56,14 +48,6 @@
     "type":"Mobile App"
   },
   {
-    "account":"nextcolony",
-    "name": "Next Colony",
-    "website": "https://nextcolony.io/",
-    "desc": "Space Browser Game",
-    "category":"Game",
-    "type":"App"
-  },
-  {
     "account":"justyy",
     "name": "Steemyy",
     "website": "https://steemyy.com/",
@@ -94,14 +78,6 @@
     "desc": "Social Sharing Platform",
     "category":"Social",
     "type":"Interface"
-  },
-  {
-    "account":"peakmonsters",
-    "name": "PeakMonster",
-    "website": "https://peakmonsters.com/",
-    "desc": "Trading Market for Splinterlands",
-    "category":"Utility",
-    "type":"App"
   },
   {
     "account":"steemcoinpan",
@@ -198,13 +174,5 @@
     "desc": "Investment platform",
     "category":"Utility",
     "type":"App"
-  },
-  {
-    "account":"steempeak",
-    "name": "SteemPeak",
-    "website": "https://steempeak.com/",
-    "desc": "Intuitive way to experience Steem",
-    "category":"Social",
-    "type":"Interface"
   }
 ]
