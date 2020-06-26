@@ -10,11 +10,18 @@
   },
   {
     "type": "comment",
-    "payload": {}
+    "payload": {
+      "author": "Content author account name",
+      "permlink": "Content permlink"
+    }
   },
   {
     "type": "transfer",
-    "payload": {}
+    "payload": {
+      "from": "From account name",
+      "to": "To account name",
+      "amount": "Transfer amount"
+    }
   },
   {
     "type": "transfer_to_vesting",
