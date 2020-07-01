@@ -56,16 +56,6 @@
     "location": "Unknown"
   },
   {
-    "url": "steemseed-fin.privex.io:2001",
-    "name": "privex",
-    "location": "Unknown"
-  },
-  {
-    "url": "steemseed-se.privex.io:2001",
-    "name": "privex",
-    "location": "Unknown"
-  },
-  {
     "url": "seed.steemzzang.com:2001",
     "name": "zzan.witnesses",
     "location": "NYC"
