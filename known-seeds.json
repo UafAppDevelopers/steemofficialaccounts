@@ -89,5 +89,10 @@
     "url": "steemd.steemdb.online:2001",
     "name": "steem-supporter",
     "location": "Unknown"
+  },
+  {
+    "url": "seed.futureshock.world:2001",
+    "name": "futureshock",
+    "location": "Germany"
   }
 ]
