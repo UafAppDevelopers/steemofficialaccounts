@@ -36,11 +36,6 @@
     "location": "Unknown"
   },
   {
-    "url": "steem-seed.urbanpedia.com:2001",
-    "name": "fuli",
-    "location": "Unknown"
-  },
-  {
     "url": "steem-seed.61bts.com:2001",
     "name": "ety001",
     "location": "Unknown"
@@ -61,19 +56,9 @@
     "location": "NYC"
   },
   {
-    "url": "seed.steemhunt.com:2001",
-    "name": "steemhunt",
-    "location": "South Korea"
-  },
-  {
     "url": "seednode.dlike.io:2001",
     "name": "dlike",
     "location": "Germany"
-  },
-  {
-    "url": "seed.steemer.app:2001",
-    "name": "bukio",
-    "location": "Unknown"
   },
   {
     "url": "seed.supporter.dev:2001",
@@ -83,11 +68,6 @@
   {
     "url": "seed.goodhello.net:2001",
     "name": "helloworld.wit",
-    "location": "Unknown"
-  },
-  {
-    "url": "steemd.steemdb.online:2001",
-    "name": "steem-supporter",
     "location": "Unknown"
   },
   {
