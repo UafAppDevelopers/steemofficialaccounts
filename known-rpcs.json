@@ -20,7 +20,15 @@
     "name": "unknown"
   },
   {
-    "url": "apt.steemdb.online",
-    "name": "steem-supporter"
+    "url": "steemd.steemworld.org",
+    "name": "steemchiller"
+  },
+  {
+    "url": "cn.steems.top",
+    "name": "maiyude"
+  },
+  {
+    "url": "api.steemzzang.com",
+    "name": "zzan.witnesses"
   }
 ]
