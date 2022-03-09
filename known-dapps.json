@@ -18,7 +18,7 @@
   {
     "account":"drugwars",
     "name": "Drugwars",
-    "website": "https://drugwarsio/",
+    "website": "https://drugwars.io/",
     "desc": "Get Paid to Rule your World!",
     "category":"Game",
     "type":"App"
@@ -40,14 +40,6 @@
     "type":"App"
   },
   {
-    "account":"appics",
-    "name": "Appics",
-    "website": "https://www.appics.com/",
-    "desc": "Passion rewarded",
-    "category":"Social",
-    "type":"Mobile App"
-  },
-  {
     "account":"justyy",
     "name": "Steemyy",
     "website": "https://steemyy.com/",
@@ -61,14 +53,6 @@
     "website": "https://actifit.io/",
     "desc": "Rewarding Activity with Crypto",
     "category":"Health",
-    "type":"App"
-  },
-  {
-    "account":"holybread",
-    "name": "Holy Bread",
-    "website": "https://holybread.io/",
-    "desc": "RPG BrowserGame",
-    "category":"Game",
     "type":"App"
   },
   {
@@ -133,38 +117,6 @@
     "website": "https://fundition.io",
     "desc": "Decentralized crowdfunding & collaboration platform",
     "category":"Finance",
-    "type":"App"
-  },
-  {
-    "account":"travelfeed",
-    "name": "TravelFeed",
-    "website": "https://travelfeed.io/",
-    "desc": "Community for Independent Travellers",
-    "category":"Social",
-    "type":"App"
-  },
-  {
-    "account":"tasteem",
-    "name": "Tasteem",
-    "website": "https://tasteem.io/",
-    "desc": "Write your own restaurant guide for special rewards.",
-    "category":"Social",
-    "type":"App"
-  },
-  {
-    "account":"steem-supporter",
-    "name": "Steem Auto",
-    "website": "https://auto.steemdb.online/",
-    "desc": "Free and unlimited tools for Steem",
-    "category":"Utility",
-    "type":"App"
-  },
-  {
-    "account":"hashkings",
-    "name": "HashKings",
-    "website": "https://steem.hashkings.app/",
-    "desc": "Farming Simulator",
-    "category":"Game",
     "type":"App"
   },
   {
