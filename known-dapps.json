@@ -134,5 +134,13 @@
     "desc": "TimeApp Foundation is an 'Immutable Value Meter' and a fixed value exchange system",
     "category":"Utility",
     "type":"App"
+  },
+  {
+    "account":"steem-fanbase",
+    "name": "Steem-Fanbase Solution",
+    "website": "https://steem-fanbase.com/",
+    "desc": "Vote Automation Service and much more on Steem blockchain",
+    "category":"Utility",
+    "type":"App"
   }
 ]
