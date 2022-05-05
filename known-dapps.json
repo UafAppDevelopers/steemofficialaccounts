@@ -126,5 +126,13 @@
     "desc": "Investment platform",
     "category":"Utility",
     "type":"App"
+  },
+  {
+    "account":"time.foundation",
+    "name": "TimeApp.Foundation",
+    "website": "https://timeapp.foundation/",
+    "desc": "TimeApp Foundation is an 'Immutable Value Meter' and a fixed value exchange system",
+    "category":"Utility",
+    "type":"App"
   }
 ]
