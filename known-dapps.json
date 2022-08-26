@@ -142,5 +142,13 @@
     "desc": "Vote Automation Service and much more on Steem blockchain",
     "category":"Utility",
     "type":"App"
+  },
+  {
+    "account":"steempro.com",
+    "name": "SteemPro",
+    "website": "https://steempro.com/",
+    "desc": "A Android and Web App Solution for Steem",
+    "category":"Social",
+    "type":"App"
   }
 ]
